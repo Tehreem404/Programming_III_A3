@@ -7,7 +7,7 @@
 
 [DESCRIPTION]
 
-    This program will do basic structure (trees) algorithms
+    This program will do basic structure (linked-list) algorithms
       1. Read an item
       2. Write an item
       3. Append an item
@@ -22,12 +22,12 @@
 [USAGE]
 
     Example make: make
-    Example execute: ./ttest
+    Example execute: ./test[1-3]
 
 [FILENAMES]
 
-    tree.c
-    tree.h
+    list.c
+    list.h
     
 
 
